@@ -7,4 +7,4 @@ Os VANTs do tipo quadrirrotor são impulsionados por 4 rotores, o torque resulta
 
 Tomando como base o controle, é necessário definir dentro do sistema dinâmico do VANT quadrirrotor, no caso a planta a ser controlada, quais são as variáveis de controle e as variáveis manipuladas. Além disso, é importante avaliar quais as possíveis variáveis de perturbação que irão influenciar o processo. 
 
-Para mais informações sobre o trabalho: [quadrirrotor_descritivo.pdf]
+Para mais informações sobre o trabalho: [quadrirrotor_descritivo.pdf] 
